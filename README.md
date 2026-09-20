@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##     About Me
 
 * 🎓 Computer Science student passionate about technology and software development
 * 🤖 Interested in **Artificial Intelligence and AI-powered applications**
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="left">
 
@@ -39,47 +39,7 @@
 
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🛡️ Custos AI
-
-**AI-Powered Cybersecurity Platform**
-
-A cybersecurity workspace designed to analyze suspicious URLs, phishing emails, and SMS messages using AI-powered analysis.
-
-**Focus:** `AI` `Cybersecurity` `Next.js` `TypeScript` `Supabase`
-
----
-
-### 🖼️ Enhance Me
-
-**Image Processing & Enhancement Tool**
-
-A modern web application with practical image-processing features such as background removal, resizing, cropping, compression, format conversion, and enhancement.
-
-**Focus:** `Next.js` `TypeScript` `Sharp`
-
----
-
-### 📄 Convertify Pro
-
-**File Conversion Web Application**
-
-A modern platform for converting image and document files through a simple and responsive interface.
-
-**Focus:** `Next.js` `TypeScript` `Tailwind CSS`
-
----
-
-## 💻 Coding
-
-<div align="center">
-
-<img src="YOUR_ANIMATED_CODING_GIF_URL" width="500">
-
-</div>
+##
 
 ---
 
