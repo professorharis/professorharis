@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 * 🎓 Computer Science student interested in technology and software development
 * 🤖 Interested in **Artificial Intelligence** and AI-powered applications
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,supabase,vercel,vscode" alt="Technologies and Tools" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
